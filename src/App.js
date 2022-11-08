@@ -9,7 +9,7 @@ function App() {
         <h2>React.js</h2>
       </header>
       <main style={{width: "1600px", height: "1109px"}}>
-        <img src='./tiger-Siberian.jpg' alt="tiger"/>
+        <img src='./tiger-Siberian.jpg' alt="tiger" style={{width: "1600px", height: "1109px"}}/>
       </main>
     </div>
   );
